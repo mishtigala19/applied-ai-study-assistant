@@ -1,0 +1,13 @@
+Artificial intelligence is the field of computer science focused on building systems that can perform tasks requiring human-like intelligence, such as reasoning, learning, summarization, classification, and decision-making.
+
+Retrieval-Augmented Generation, also called RAG, is an AI design pattern where a system retrieves relevant information from a knowledge source before generating an answer. RAG helps reduce hallucination because the answer is grounded in retrieved context.
+
+Agentic workflows are AI workflows where the system can plan, act, observe results, and revise its behavior. These workflows are useful for multi-step tasks such as debugging, research, or automated planning.
+
+Guardrails are rules or checks that help keep an AI system safe, reliable, and aligned with its intended purpose. Guardrails can prevent the system from answering when it lacks enough evidence.
+
+Confidence scoring is a reliability technique where the system estimates how strongly the retrieved context supports the answer. A low confidence score can warn users that the answer may be incomplete.
+
+AI systems can have limitations and biases because they depend on the quality of their data, retrieval methods, prompts, and design assumptions. Responsible AI systems should explain limitations clearly.
+
+Reliability testing helps evaluate whether an AI system works consistently. Tests can check retrieval accuracy, missing-context behavior, confidence scoring, and error handling.
