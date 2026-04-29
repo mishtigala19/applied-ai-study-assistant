@@ -39,9 +39,25 @@ User Input → Guardrails → Retriever → Confidence Check → Generator → O
 
 ---
 
+---
+
+## Demo Video
+
+Watch the full system walkthrough here:  
+https://drive.google.com/file/d/1lcdMOxRkFXGk_3zn-Wn3BjRf2AU2mHwV/view?usp=share_link
+
+---
+
+## Portfolio Reflection
+
+This project reflects my ability to design AI systems that are not only functional but also reliable and responsible. I focused on building a structured, modular system that integrates retrieval, validation, and testing rather than relying on raw generation. It shows that I understand the importance of grounding AI outputs in data, implementing guardrails to prevent incorrect behavior, and evaluating system performance through testing. As an AI engineer, this project highlights my focus on building practical, trustworthy systems that prioritize accuracy, transparency, and user safety.
+
+---
+
 ## Setup Instructions
 
 1. Clone the repository:
 ```bash
 git clone https://github.com/mishtigala19/applied-ai-study-assistant.git
 cd applied-ai-study-assistant
+
